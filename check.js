@@ -15,3 +15,5 @@ const  calcAge = ( ) => {
         console.log(`can`);
     }
 }
+// other log
+console.log(`next function will be render out asap`);
