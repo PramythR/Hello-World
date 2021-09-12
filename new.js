@@ -3,3 +3,6 @@ const nameGenerataor = () => {
 };
 const nameGenerataor = () => {
 };
+Math.acosh(
+    4,5
+)
