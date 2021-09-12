@@ -17,3 +17,5 @@ const  calcAge = ( ) => {
 }
 // other log
 console.log(`next function will be render out asap`);
+
+console.log(`new`);
