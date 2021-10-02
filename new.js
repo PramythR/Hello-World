@@ -1,10 +1,20 @@
-const snew = "pramith";
+
 const nameGenerataor = () => {
 };
 const nameGenerataor = () => {
 };
 
+const newWork = () => {
+    const  a =4;
+    const  b = 3;
+    return a + b;
+}
+//see here >>>
+newWork();
+function checkNumber(){
+    console.log(`hi`)
 
+<<<<<<< HEAD
 console.log(`check  this`);
 
 Math.acosh(
@@ -19,3 +29,8 @@ console.log(arrayOne.reverse());
 
 console.log(`dsc`);
 //
+=======
+}
+checkNumber();
+//
+>>>>>>> main
