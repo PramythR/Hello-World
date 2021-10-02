@@ -1,4 +1,4 @@
-const new = "pramith";
+const snew = "pramith";
 const nameGenerataor = () => {
 };
 const nameGenerataor = () => {
