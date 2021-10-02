@@ -5,6 +5,10 @@ const nameGenerataor = () => {
 };
 
 
+
+newWork();
+
+
 console.log(`check  this`);
 
 Math.acosh(
@@ -12,4 +16,9 @@ Math.acosh(
 )
 
 console.log(`after edit email`);
+const newWork = () => {
+    const  a =4;
+    const  b = 3;
+    return a + b;
+}
 
