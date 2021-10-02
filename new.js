@@ -1,1 +1,2 @@
-console.log(`new resolver`)
+console.log(`new resolver`);
+
