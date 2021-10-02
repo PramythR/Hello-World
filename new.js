@@ -9,4 +9,11 @@ const newWork = () => {
     const  b = 3;
     return a + b;
 }
+//see here >>>
 newWork();
+function checkNumber(){
+    console.log(`hi`)
+
+}
+checkNumber();
+//
