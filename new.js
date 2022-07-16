@@ -1,12 +1,5 @@
 
-const nameGenerataor = () => {
-};
-const nameGenerataor = () => {
-};
+console.log(`new resolver`);
+console.log(`this is merging here`);
+console.log(`I am Working`);
 
-const newWork = () => {
-    const  a =4;
-    const  b = 3;
-    return a + b;
-}
-newWork();
